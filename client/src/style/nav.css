@@ -1,0 +1,38 @@
+div.container {
+  width: 100%;
+  margin: 5px auto;
+}
+
+nav {
+  width: 100%;
+}
+
+.logo h2 {
+  font-size: 32px;
+}
+
+div.links ul {
+  display: flex;
+  list-style: none;
+}
+
+div.logo {
+  margin-left: 10px;
+}
+
+div.links ul li {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+div.links ul li:first-child {
+  padding-left: none;
+}
+
+.logo h2 {
+  color: black;
+}
+
+.logo a {
+  text-decoration: none;
+}

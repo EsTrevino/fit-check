@@ -1,0 +1,43 @@
+.landing-container {
+  height: 80vh;
+  background: linear-gradient(to right rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../images/athlete-beach-bodybuilder.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div.textbox {
+  margin: auto;
+  padding-top: 150px;
+  width: 90%;
+  text-align: center;
+  color: white;
+}
+
+.textbox h1 {
+  font-size: 54px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: normal;
+}
+
+.textbox p {
+  font-size: 28px;
+  margin-top: 30px;
+}
+
+.buttonbox {
+  width: 70%;
+  position: relative;
+  margin: 70px auto;
+}
+
+.buttonbox button {
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+.buttonbox a {
+  text-decoration: none;
+}

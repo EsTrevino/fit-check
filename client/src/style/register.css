@@ -1,0 +1,9 @@
+.register .container {
+  height: 75vh;
+  padding: 30px;
+  width: 60%;
+}
+
+.register h1 {
+  font-size: 36px;
+}

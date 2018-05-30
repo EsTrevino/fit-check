@@ -1,0 +1,17 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+
+  padding-bottom: 15px;
+  overflow: hidden;
+}

@@ -1,0 +1,13 @@
+.login {
+  margin-top: 50px;
+}
+
+.login .container {
+  height: 75vh;
+  padding: 30px;
+  width: 60%;
+}
+
+.login h1 {
+  font-size: 36px;
+}
